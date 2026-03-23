@@ -5,3 +5,5 @@
 docs/
 .collaborator
 .claude/
+config.bat
+node_modules
